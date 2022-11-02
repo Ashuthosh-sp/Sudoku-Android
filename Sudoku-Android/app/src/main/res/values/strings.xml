@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="tutorial">
+        Each cell in a row, column, or box needs to be filled with a unique number from 1 to 9 and no cells can be duplicated.\n\n
+        Attention:\n
+        - Click the [img src=ic_reset/] icon to delete all the numbers you entered.\n
+        - Click on the [img src=ic_hint/] icon to see hints.\n
+        - Click the [img src=ic_solve/] icon to see the sample solution.\n
+    </string>
+    <string name="app_font"> FallingSkyBd.otf </string>
+</resources>
